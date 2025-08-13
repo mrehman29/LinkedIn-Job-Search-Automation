@@ -1,3 +1,5 @@
+![LinkedIn Job Search Automation Banner](n8n-flow.png)
+
 # LinkedIn Job Search Automation
 
 This project provides an automated workflow to streamline your LinkedIn job search, built using `n8n`. It helps you efficiently find relevant job postings, extract key information, and manage your applications by integrating with Google Drive and Google Sheets.
